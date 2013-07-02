@@ -1,0 +1,4 @@
+hchc:
+    resource: "@HCHCBundle/Resources/config/routing.yml"
+    prefix:   /
+

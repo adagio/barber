@@ -1,0 +1,8 @@
+hchc_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: HCHCBundle:Default:index }
+
+articulos:
+    pattern:  /articulos
+    defaults: { _controller: HCHCBundle:Default:articulos }
+ 
